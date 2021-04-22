@@ -282,7 +282,6 @@ nav a:hover {
    }
 
    
-   
   
    .contact-box{
     height: 100vh;
@@ -353,7 +352,7 @@ nav a:hover {
     footer {
     padding: 10px;
     background: #A07659;
-    text-align: left;
+    text-align: center;
     width: 100%;
     z-index: 1000;
     object-position:center;
