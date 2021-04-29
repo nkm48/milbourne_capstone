@@ -239,6 +239,15 @@ nav a:hover {
       background: rgba(0,0,0,.75);
       color: white;
       padding: 15px 60px;
+      display: flex;
+    }
+
+    .card-container {
+      display: flex;
+    }
+
+    .card {
+      padding: 15px;
     }
     
     .help-box {
