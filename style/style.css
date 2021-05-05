@@ -208,7 +208,7 @@ nav a:hover {
     
     .about-box {
       height: 100vh;
-      background: url("/images/website-background-green.jpg");
+      background: url("../images/website-background-green.jpg");
       background-size: cover;
       display: flex;
       justify-content: center;
